@@ -1,0 +1,25 @@
+.nav ul{
+height: 100%;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+padding: 10px 50px;
+justify-content: space-between;
+list-style-type: none;
+background-color:#c40405; 
+margin: 0;
+text-decoration: none;
+
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: white ;
+    font-family: 'Gantari', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+    /* letter-spacing: 1px; */
+    position: relative;
+    letter-spacing: 2.5px;
+
+}
