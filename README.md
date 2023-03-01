@@ -1,4 +1,8 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![1](https://user-images.githubusercontent.com/71738691/222222997-9ea45f26-8217-4bc5-850a-914ee5523abf.png)
+![2](https://user-images.githubusercontent.com/71738691/222223019-d757a11c-f1b3-4268-9c70-79cdcfc9acc5.png)
+![3](https://user-images.githubusercontent.com/71738691/222223072-b82583fc-9863-4eab-8a4a-df26835db728.png)
+![4](https://user-images.githubusercontent.com/71738691/222223094-62217e97-0726-447f-8239-b6e53cb3906b.png)
 
 # Individual Project - Henry Pokemon
 
